@@ -1,14 +1,31 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin: 0px 300px;
 }
 header {
     color: #ffffff;
 }
 header, footer {
-    background-color: #f3f70e;
+    background-color: #2f5a787d;
     text-align: center;
+}
+.mainh1 {
+    color: #2F5A78;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #2F5A78;
+    text-align: center;
+}
+h2 {
+    color: #2F5A78;
+    font-size: 25px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #2F5A78;
 }
 img {
     width: 350px;
     height: auto;
+    background-color: #2f5a787d;
+    /* text-align: center; */
+    margin: 0px 200px;
 }
