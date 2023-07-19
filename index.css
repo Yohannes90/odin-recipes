@@ -1,14 +1,22 @@
 body {
-    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 60px 200px 50px 200px;
+    border: 1px solid #2F5A78;
+    padding-bottom: 20px;
 }
 
 h1 {
     font-size: 40px;
     color: #ffffff;
-    background-color: #f3f70e;
+    background-color: #2f5a787d;
+}
+li {
+    margin: auto 350px;
 }
 img {
-    width: 400px;
+    width: 600px;
     height: auto;
+    margin-bottom: 20px;
 }
